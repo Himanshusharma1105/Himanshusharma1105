@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshusharma1105
-- 👀 I’m interested in learning kali linux
-- 🌱 I’m currently learning kali linux
-- 💞️ I’m looking to collaborate on coding languages
+- 👀 I’m interested in learning kali linux,java and python and c.
+- 🌱 I’m currently learning kali linux,java, python and c.
+- 💞️ I’m looking to collaborate on coding languages like java,python and c.
 - 📫 How to reach me 
 my instagram account is ig_.lynx
 
