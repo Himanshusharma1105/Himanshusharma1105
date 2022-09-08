@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Himanshusharma1105
-- 👀 I’m interested in learning kali linux,java and python and c.
-- 🌱 I’m currently learning kali linux,java, python and c.
+- 👀 I’m interested in learning linux,java, python and c.
+- 🌱 I’m currently learning linux,java, python and c.
 - 💞️ I’m looking to collaborate on coding languages like java,python and c.
-- 📫 How to reach me 
-my instagram account is ig_.lynx
+- 📫 How to reach me my instagram account is ig_.an0nym0us._
 
 <!---
 Himanshusharma1105/Himanshusharma1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
