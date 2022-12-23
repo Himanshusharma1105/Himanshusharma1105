@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Himanshusharma1105
-- 👀 I’m interested in learning linux,java, python and c.
-- 🌱 I’m currently learning linux,java, python and c.
-- 💞️ I’m looking to collaborate on coding languages like java,python and c.
+- 👀 I’m interested in learning Linux,Java and Python.
+- 🌱 I’m currently learning Linux, Java and Python.
+- 💞️ I’m looking to collaborate on coding languages like java and python .
 - 📫 How to reach me my instagram account is ig_.an0nym0us._
 
 <!---
